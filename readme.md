@@ -1,3 +1,10 @@
+### Notas (Entrevistador Nataly Lopez)
+- Poner más comentarios en el código
+- Solo se terminó el ejercicio 2
+- Va revisando todos los elementos que va poniendo para ver que funcionen
+- Seguir repasando estructura de manipulación del Dom
+
+
 # Práctica de Live Coding 1
 El repo contiene el reto del live coding 1. Clonalo en tu computadora para resolverlo.
 
